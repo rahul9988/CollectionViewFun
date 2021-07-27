@@ -13,3 +13,12 @@ Demo
 
 
 https://htapp.onelink.me/hoXK/testDeeplink
+
+
+new test 
+
+https://htapp.onelink.me/hoXK?pid=SMS&c=ht-ipad-test-21July-rd&is_retargeting=true&deep_link_value=https%3A%2F%2Fwww.hindustantimes.com%2Findia-news%2Fweve-been-transparent-centre-dismisses-study-which-put-india-s-real-toll-due-to-covid-19-at-2-7-3-3-million-101627379579740.html&af_dp=com.hindustantimes.htipadapp.appsflyer%3A%2F%2F&af_web_dp=https%3A%2F%2Fwww.hindustantimes.com%2F
+
+
+short 
+https://htapp.onelink.me/hoXK/htIpadRD
